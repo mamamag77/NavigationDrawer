@@ -19,7 +19,7 @@
     <string-array name="planets_array">
         <item>Mercury</item>
         <item>Venus</item>
-        <item>Earth</item>
+        <item>Earth 地球</item>
         <item>Mars</item>
         <item>Jupiter</item>
         <item>Saturn</item>
